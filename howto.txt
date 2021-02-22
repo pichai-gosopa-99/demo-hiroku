@@ -20,3 +20,7 @@ upload github
 # 3. Add this to the script
 --------------------------------
 "heroku-postbuild": "npm run build"
+
+# 4. heroku login
+------------------------------
+npx heroku login
